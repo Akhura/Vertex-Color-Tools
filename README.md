@@ -11,3 +11,6 @@ Installation process is standard:
 It is located in the 3D Viewport, while in Edit Mode, open the N-Panel, and you shall find it in the bottom panel - "Vertex Color Assign" of "Tool" Tab.
 
 In order to see changes as_you_go - switch the shading mode to "Vertex" in the top right drop down Shading Properties Menu.
+
+Download link:
+https://github.com/Akhura/Vertex-Color-Tool-for-Edit-Mode/archive/refs/heads/main.zip
