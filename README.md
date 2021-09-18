@@ -1,7 +1,7 @@
-# Vertex-Color-Tool-for-Edit-Mode
+# Vertex-Color-Tools
 Tool for convenient assigning vertex colors to mesh faces
 
-This simple tool allows assigning vertex color and alpha values to selected faces directly in Edit Mode. Works in blender 2.80+
+This simple tool allows assigning vertex color and alpha values to selected faces directly in Edit Mode, as well as change the order Vertex Color Layers. Works in blender 2.80+
 
 Installation process is standard:
 1. Launch Blender.
