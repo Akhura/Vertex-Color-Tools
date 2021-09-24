@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Vertex Color Tools",
     "author": "Akhura Mazda",
-    "version": (1, 3),
+    "version": (1, 4),
     "blender": (2, 80, 0),
     "location": "View3D > Property Panel > Mesh Edit | Obj Data Properties > Vertex Colors",
     "description": "Assigns Vertex Color and Alpha Value to Faces Edit Mode and changes order of Vertex Color Layers in Object Data Properties",
